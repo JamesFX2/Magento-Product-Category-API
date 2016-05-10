@@ -1,0 +1,5 @@
+ul { margin: none; list-style: none; float: left}
+
+ul#container {width: 100%}
+
+ul#container li ul {padding: 10px; border: solid 1px black; margin-right: 5px}
